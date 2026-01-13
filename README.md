@@ -1,6 +1,4 @@
 ## Hi there 👋
-![Banner](img/Banner.png)
-
 💻 Informatics Engineering graduate | Passionate about Data Analyst & Machine Learning  
 📊 Exploring insights through Python, SQL, and ML models  
 🚀 Actively building projects in NLP, Computer Vision & Business Analytics  
